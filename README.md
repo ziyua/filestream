@@ -1,3 +1,3 @@
 # filestream
 
-## 创建数据流, pyhton 代码
+## Create a data stream.
